@@ -1,0 +1,17 @@
+@mixin sb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin se {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+@mixin sc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
